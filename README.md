@@ -27,7 +27,7 @@ The goal of this project is to apply and compare multiple denoising methods, the
 
 
 ## Dataset
-- [2D Fetal Ultrasound Images – Kaggle]([https://www.kaggle.com/code/shivanshuverma/simple-neural-network-1/input](https://www.kaggle.com/datasets/vishwaskant786/2d-fetal-altrasound-images))  
+[https://www.kaggle.com/datasets/vishwaskant786/2d-fetal-altrasound-images]
 
 
 ## Quantitative Results
