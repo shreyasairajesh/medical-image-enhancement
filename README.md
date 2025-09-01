@@ -27,13 +27,7 @@ The goal of this project is to apply and compare multiple denoising methods, the
 
 
 
-## Sample Results
 
-**Original vs Noisy vs Enhanced (Hybrid)**
-
-| Original | Noisy | Median | Anisotropic | Wavelet | Hybrid |
-|----------|-------|--------|-------------|---------|--------|
-| ![Original](assets/original.png) | ![Noisy](assets/noisy.png) | ![Median](assets/median.png) | ![Anisotropic](assets/anisotropic.png) | ![Wavelet](assets/wavelet.png) | ![Hybrid](assets/hybrid.png) |
 
 
 
